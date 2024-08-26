@@ -1,0 +1,10 @@
+C:\Users\Slavik\source\repos\ComPortTest\ComPortTest\bin\Release\ComPortTest.exe.config
+C:\Users\Slavik\source\repos\ComPortTest\ComPortTest\bin\Release\ComPortTest.exe
+C:\Users\Slavik\source\repos\ComPortTest\ComPortTest\bin\Release\ComPortTest.pdb
+C:\Users\Slavik\source\repos\ComPortTest\ComPortTest\obj\Release\ComPortTest.Form1.resources
+C:\Users\Slavik\source\repos\ComPortTest\ComPortTest\obj\Release\ComPortTest.Properties.Resources.resources
+C:\Users\Slavik\source\repos\ComPortTest\ComPortTest\obj\Release\ComPortTest.csproj.GenerateResource.cache
+C:\Users\Slavik\source\repos\ComPortTest\ComPortTest\obj\Release\ComPortTest.csproj.CoreCompileInputs.cache
+C:\Users\Slavik\source\repos\ComPortTest\ComPortTest\obj\Release\ComPortTest.exe
+C:\Users\Slavik\source\repos\ComPortTest\ComPortTest\obj\Release\ComPortTest.pdb
+C:\Users\Slavik\source\repos\ComPortTest\ComPortTest\obj\Release\ComPortTest.csproj.AssemblyReference.cache

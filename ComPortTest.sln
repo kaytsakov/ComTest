@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComPortTest", "ComPortTest\ComPortTest.csproj", "{316356AD-9FA0-4016-8E8B-E8507BE7530A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ComPortTestSetup", "ComPortTestSetup\ComPortTestSetup.vdproj", "{9EB30047-D1A7-4EA5-9FE2-C702E0264794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316356AD-9FA0-4016-8E8B-E8507BE7530A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316356AD-9FA0-4016-8E8B-E8507BE7530A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316356AD-9FA0-4016-8E8B-E8507BE7530A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316356AD-9FA0-4016-8E8B-E8507BE7530A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB30047-D1A7-4EA5-9FE2-C702E0264794}.Debug|Any CPU.ActiveCfg = Debug
+		{9EB30047-D1A7-4EA5-9FE2-C702E0264794}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE7041C3-98BD-4D31-B3ED-418B5CD662BF}
+	EndGlobalSection
+EndGlobal
